@@ -13,6 +13,6 @@ The APP is created with the latest industry standards using React.js and Materai
 
 ## Deployment
 
-It is hosted on GitHub, you can visit at: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+It is hosted on GitHub, you can visit at: [https://ganeshbhavar.me/Linkedin-FrontEnd/](https://ganeshbhavar.me/Linkedin-FrontEnd/)
 
 
