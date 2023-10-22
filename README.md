@@ -13,6 +13,6 @@ The APP is created with the latest industry standards using React.js and Materai
 
 ## Deployment
 
-It is hosted on GitHub, you can visit at: [https://ganeshbhavar.me/Linkedin-FrontEnd/](https://ganeshbhavar.me/Linkedin-FrontEnd/)
+It is hosted on GitHub, you can visit at: [https://ganesh-6.github.io/Linkedin-FrontEnd/](https://ganesh-6.github.io/Linkedin-FrontEnd/)
 
 
