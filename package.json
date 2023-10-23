@@ -2,7 +2,7 @@
   "name": "linkedin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ganeshbhavar.me/Linkedin-FrontEnd",
+  "homepage": "https://ganesh-6.github.io/Linkedin-FrontEnd/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
